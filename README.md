@@ -1,2 +1,2 @@
 # git_easy
-**Practice Git**
+**Practice Git in dev**
